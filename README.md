@@ -1,2 +1,1 @@
-Implementation chat bot with DialogFlow tool , the bot retrieves data from various websites(Amazon , Chess.com ,Chucknorris.io.) according to user requests by two techniques of Web Scraping .
-Using Spring Boot for RestApi service , Postman tool for scraping process and Webhook for connection between bot and application API.
+Implemented a chatbot using DialogFlow to retrieve data from various websites (Amazon, Chess.com, Chucknorris.io) through web scraping. Utilized Spring Boot, Postman, Webhook, Regex101, and containerized the application with Docker for smooth functionality.
